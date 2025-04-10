@@ -1,0 +1,182 @@
+[
+    {
+        "id": "73C16955",
+        "name": "Готовимся к праздникам",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C16955/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2338",
+        "name": "Готовая еда",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2338/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C10467",
+        "name": "Горячий кофе с доставкой",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C10467/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C7288",
+        "name": "Не забудьте купить",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C7288/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2327",
+        "name": "Хлеб и выпечка",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2327/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C10314",
+        "name": "Фрукты, ягоды и орехи",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C10314/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C10315",
+        "name": "Овощи и зелень",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C10315/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2339",
+        "name": "Сладости",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2339/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C7215",
+        "name": "Торты и пирожные",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C7215/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2336",
+        "name": "Молочные продукты и яйцо",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2336/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9727",
+        "name": "Сыры",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9727/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2333",
+        "name": "Мясо и птица",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2333/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9769",
+        "name": "Колбаса и сосиски",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9769/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2335",
+        "name": "Замороженные продукты",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2335/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9786",
+        "name": "Здоровый выбор",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9786/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C14811",
+        "name": "Вкус & Польза",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C14811/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2334",
+        "name": "Рыба и морепродукты",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2334/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9802",
+        "name": "Снеки",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9802/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9811",
+        "name": "Макароны и крупы",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9811/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9820",
+        "name": "Всё для выпечки",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9820/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9831",
+        "name": "Соусы и заправки",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9831/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9841",
+        "name": "Масло и специи",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9841/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2326",
+        "name": "Кофе, какао, чай",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2326/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2324",
+        "name": "Консервы и соленья",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2324/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2330",
+        "name": "Вода и напитки",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2330/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2328",
+        "name": "Детское питание",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2328/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9879",
+        "name": "Детские товары",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9879/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9888",
+        "name": "Бумага и салфетки",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9888/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2331",
+        "name": "Красота и гигиена",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2331/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9907",
+        "name": "Л'Этуаль в Пятёрочке",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9907/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2329",
+        "name": "Для животных",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2329/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C10843",
+        "name": "Пушистый клуб",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C10843/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9913",
+        "name": "Стирка и уборка",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9913/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9993",
+        "name": "Одежда",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9993/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C2332",
+        "name": "Для дома и дачи",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C2332/products?mode=delivery&limit=30&offset="
+    },
+    {
+        "id": "73C9953",
+        "name": "Аптечка",
+        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9953/products?mode=delivery&limit=30&offset="
+    }
+]

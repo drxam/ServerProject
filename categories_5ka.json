@@ -15,11 +15,6 @@
         "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C10467/products?mode=delivery&limit=30&offset="
     },
     {
-        "id": "73C9968",
-        "name": "Наша пекарня",
-        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9968/products?mode=delivery&limit=30&offset="
-    },
-    {
         "id": "73C7288",
         "name": "Не забудьте купить",
         "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C7288/products?mode=delivery&limit=30&offset="
@@ -138,11 +133,6 @@
         "id": "73C9879",
         "name": "Детские товары",
         "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C9879/products?mode=delivery&limit=30&offset="
-    },
-    {
-        "id": "73C12086",
-        "name": "Детский клуб",
-        "link": "https://5d.5ka.ru/api/catalog/v1/stores/Y232/categories/73C12086/products?mode=delivery&limit=30&offset="
     },
     {
         "id": "73C9888",
